@@ -1,0 +1,6 @@
+to run both the files
+python3 main.py
+python3 2.py 
+
+google sheet url 
+https://docs.google.com/spreadsheets/d/13nxS2w-QB-AUvD1Sanh9fFLKAFXxgwXUKxXmnUFPcco/edit#gid=0
